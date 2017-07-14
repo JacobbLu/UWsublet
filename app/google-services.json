@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "37487413464",
+    "firebase_url": "https://uw-sublet.firebaseio.com",
+    "project_id": "uw-sublet",
+    "storage_bucket": "uw-sublet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37487413464:android:e5c4dfa336c94b4c",
+        "android_client_info": {
+          "package_name": "com.baimingze369gmail.uw_sublet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37487413464-5nvv38h3a8sam2j8n21eshhrmromfj8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ3tYhjtq38ZhnDc5lpD8NuwNtmHMjq_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
